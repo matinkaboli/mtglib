@@ -1,0 +1,24 @@
+{
+  "name": "mongoose-to-graphql",
+  "version": "0.0.1",
+  "description": "Autimatically build graphQL types from mongoose models",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mongoose",
+    "graphql"
+  ],
+  "author": "Matin Kaboli <matinkaboli@aol.com>",
+  "license": "MIT",
+  "dependencies": {
+    "graphql": "^0.13.2",
+    "mongoose": "^5.2.5"
+  },
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb-base": "^13.0.0",
+    "eslint-plugin-import": "^2.13.0"
+  }
+}
